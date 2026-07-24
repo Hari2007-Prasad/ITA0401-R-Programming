@@ -1,0 +1,27 @@
+START
+
+Create Matrix A with numeric values
+Create Matrix B with numeric values
+
+Perform matrix addition:
+    C = A + B
+
+Perform matrix multiplication:
+    D = A multiplied by B
+
+Perform element-wise multiplication:
+    E = A multiplied element-by-element by B
+
+Create a 3D array with required dimensions
+
+Access and display selected array elements
+
+Display all matrix and array results
+
+Analyze:
+    Matrix operations work on two-dimensional data
+    Matrix multiplication follows row-column multiplication
+    Element-wise operations work on corresponding elements
+    Arrays can store data in more than two dimensions
+
+STOP
