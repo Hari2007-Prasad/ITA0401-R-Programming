@@ -1,0 +1,27 @@
+START
+
+Create a data frame with:
+    Student Name as character
+    Age as numeric
+    Mark as numeric
+
+Display the original data frame
+
+Add a new column:
+    Grade
+
+Modify an existing column:
+    Increase marks by 5
+
+Delete a column:
+    Remove Age column
+
+Perform summary operations:
+    Calculate mean of marks
+    Calculate maximum mark
+    Calculate minimum mark
+    Display summary of data frame
+
+Display final data frame
+
+STOP
