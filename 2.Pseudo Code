@@ -1,0 +1,29 @@
+START
+
+Create a vector containing numeric values
+Create a list containing numeric, character, and logical values
+Create a matrix with rows and columns
+
+Perform indexing:
+    Access an element from the vector
+    Access an element from the list
+    Access an element from the matrix
+
+Perform updating:
+    Change one value in the vector
+    Change one value in the list
+    Change one value in the matrix
+
+Perform aggregation:
+    Calculate sum of vector
+    Calculate mean of vector
+    Calculate sum of matrix elements
+
+Compare structures:
+    Vector stores similar data types
+    List stores different data types
+    Matrix stores similar data in rows and columns
+
+Display results
+
+STOP
