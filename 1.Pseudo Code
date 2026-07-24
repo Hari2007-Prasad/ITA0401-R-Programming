@@ -1,0 +1,20 @@
+START
+
+Declare a numeric variable and assign a value
+Declare a character variable and assign a name
+Declare a logical variable and assign TRUE
+
+Perform arithmetic operations:
+    Add two numeric values
+    Subtract two numeric values
+    Multiply two numeric values
+    Divide two numeric values
+
+Perform logical operations:
+    Check whether numeric value is greater than another value
+    Perform AND operation
+    Perform OR operation
+
+Display all variables and results
+
+STOP
