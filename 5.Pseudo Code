@@ -1,0 +1,21 @@
+START
+
+Define a user-defined function named calculate
+    Accept two input parameters
+    Add the two parameters
+    Return the result
+
+Call the function with two values
+Store the returned result
+
+Create two logical vectors
+
+Perform logical operations:
+    AND operation
+    OR operation
+    NOT operation
+
+Display the function result
+Display all logical operation results
+
+STOP
